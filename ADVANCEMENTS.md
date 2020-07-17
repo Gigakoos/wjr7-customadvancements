@@ -7,7 +7,7 @@
 | Coffin Dance | ? | Die |
 | Bicentennial Man | ? | ? |
 | Took back the Night | ? | ? |
-| Lost Civilization | ? | ? |
+| Lost Civilization | ? | Find and enter a Bastion Remnant |
 | Soul in my Step | ? | Get Soul Speed boots |
 | Dapper Threads | ? | ? |
 | It's good for the eyes | ? | ? |
