@@ -17,7 +17,7 @@
 | I'm more or less Gandalf now | Obtain over 50 experience levels | Get 50 experience levels | |
 | Mod Killer | Kill a player with the mod tag | Kill a moderator | Currently broken |
 | Assertive Dominance | ? | ? | |
-| Oh, uh, hey | Find the tnt yeeter under spawn | Walk into one of the edges in one of the portals at Nether Hub (broken) | |
+| Oh, uh, hey | Find the tnt yeeter under spawn | Walk into one of the edges in one of the portals at Nether Hub | Broken, if fixed, go to the room at -6 114 0 ((pic for reference))[https://i.imgur.com/w4koIe5.png] |
 | He's called Pickle Rick | I kid you not Jeff, he turns himself into a pickle | Get a sea pickle | |
 | What are you doing in my swamp | https://youtu.be/psFzJv8g6jc | Find a swamp | |
 | Get Lucky | Obtain an Elytra from an Ender Dragon | Kill an Ender Dragon and have it drop Elytra (50% chance) | |
