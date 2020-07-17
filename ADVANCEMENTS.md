@@ -1,4 +1,4 @@
-|Name|In game description|Requirements (if different)| Notes |
+|Name|In game description|Requirements| Notes |
 |---|---|---|---|
 | Assertive Dominance | ? | ? | |
 | Aww man... | Get killed by a creeper | Get killed by a Creeper |  |
