@@ -1,12 +1,12 @@
 |Name|In game description|Requirements (if different)| Notes |
 |---|---|---|---|
-| Stop Doing That | Fall into the void at spawn | Die in the void at spawn | n/a |
+| Stop Doing That | Fall into the void at spawn | Die in the void at spawn |  |
 | Firin' My Lazer | ? | ? | n/a |
-| I am Iron Man | Get killed by an Iron Golem | Get killed by an Iron Golem | n/a |
-| Aww man... | Get killed by a creeper | Get killed by a Creeper | n/a |
+| I am Iron Man | Get killed by an Iron Golem | Get killed by an Iron Golem |  |
+| Aww man... | Get killed by a creeper | Get killed by a Creeper |  |
 | Coffin Dance | Suffer your first death | Die | n/a |
-| Bicentennial Man | ? | ? | Presumed to be getting over 200 hours (12k minutes) of playtime | n/a |
-| Took back the Night | Get killed by a zombified piglin | Get killed by a Zombified Piglin | n/a |
+| Bicentennial Man | ? | ? | Presumed to be getting over 200 hours (12k minutes) of playtime |  |
+| Took back the Night | Get killed by a zombified piglin | Get killed by a Zombified Piglin |  |
 | Lost Civilization | Discover a Ruined Portal | Find a Ruined Portal | |
 | Soul in my Step | Get the Soul Speed enchantment on any boots | Get Soul Speed boots | |
 | Dapper Threads | ? | ? | |
