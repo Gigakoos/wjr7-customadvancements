@@ -12,7 +12,7 @@
 | Dapper Threads | ? | ? | |
 | It's good for the eyes | ? | ? | |
 | I left the world barren... | ? | ? | |
-| Power of Thor | ? | Hit a mob with a Channeling-enchanted Trident during a thunderstorm  | |
+| Power of Thor | Enchant a trident with Channeling  | Obtain a Channeling-enchanted trident  | |
 | I listened to it before it was cool | Obtain the pigstep music disc | Get a "Lena Raine - Pigstep" music disc | |
 | I'm more or less Gandalf now | Obtain over 50 experience levels | Get 50 experience levels | |
 | Mod Killer | Kill a player with the mod tag | Kill a moderator | Currently broken |
