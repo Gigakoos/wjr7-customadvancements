@@ -3,7 +3,7 @@
 | Assertive Dominance | ? | ? | |
 | Aww man... | Get killed by a creeper | Get killed by a Creeper |  |
 | Ballin' Out of Control | ? | ? | |
-| Bicentennial Man | ? | ? | Presumed to be getting over 200 hours (12k minutes) of playtime |  |
+| Bicentennial Man | Spend over 200 hours on the realm | Spend over 200 hours (12k minutes) on the realm |  |  |
 | Coffin Dance | Suffer your first death | Die |  |
 | Firin' My Lazor | ? | ? |  |
 | FIRST! | ? | ? | |
