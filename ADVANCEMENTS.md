@@ -2,7 +2,7 @@
 |---|---|---|---|
 | Assertive Dominance | ? | ? | |
 | Aww man... | Get killed by a creeper | Get killed by a Creeper |  |
-| Ballin' Out of Control | ? | ? | |
+| Ballin' Out of Control | ? | ? | Hint from billyK (WJR Mod): "I wonder what happens if you make [REDACTED_NUMBER] [REDACTED] blocks in [REDACTED_2]" |
 | Bicentennial Man | Spend over 200 hours on the realm | Spend over 200 hours (12k minutes) on the realm |  |  |
 | Coffin Dance | Suffer your first death | Die |  |
 | Firin' my lazer | Have all 6 beacon buffs applied at once | Have all 6 beacon buffs applied at once |  |
