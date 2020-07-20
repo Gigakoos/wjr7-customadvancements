@@ -5,7 +5,7 @@
 | Ballin' Out of Control | ? | ? | |
 | Bicentennial Man | Spend over 200 hours on the realm | Spend over 200 hours (12k minutes) on the realm |  |  |
 | Coffin Dance | Suffer your first death | Die |  |
-| Firin' My Lazor | ? | ? |  |
+| Firin' my lazer | Have all 6 beacon buffs applied at once | Have all 6 beacon buffs applied at once |  |
 | FIRST! | ? | ? | |
 | Get Lucky | Obtain an Elytra from an Ender Dragon | Kill an Ender Dragon and have it drop Elytra (50% chance) | |
 | He's called Pickle Rick | I kid you not Jeff, he turns himself into a pickle | Get a sea pickle | |
