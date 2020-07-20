@@ -11,7 +11,7 @@
 | He's called Pickle Rick | I kid you not Jeff, he turns himself into a pickle | Get a sea pickle | |
 | I am Iron Man | Get killed by an Iron Golem | Get killed by an Iron Golem |  |
 | I left the world barren... | ? | ? | |
-| I listened to it before it was cool | Obtain the pigstep music disc | Get a "Lena Raine - Pigstep" music disc | |
+| I listened to it, before it was cool | Obtain the pigstep music disc | Get a "Lena Raine - Pigstep" music disc | |
 | I'm more or less Gandalf now | Obtain over 50 experience levels | Get 50 experience levels | |
 | It's good for the Eyes | Consume a pufferfish | Consume a pufferfish | |
 | Lost Civilization | Discover a Ruined Portal | Find a Ruined Portal | |
@@ -25,4 +25,4 @@
 | Stop Doing That | Fall into the void at spawn | Die in the void at spawn |  |
 | Took back the Night | Get killed by a zombified piglin | Get killed by a Zombified Piglin |  |
 | What are you doing in my swamp | https://youtu.be/psFzJv8g6jc | Find a swamp | |
-| Ya like Jazz? | Get killed by an angry bee | Get killed by an angry bee | To get it easier, get yourself to 1 heart and then punch a bee |
+| Ya like jazz? | Get killed by an angry bee | Get killed by an angry bee | To get it easier, get yourself to 1 heart and then punch a bee |
