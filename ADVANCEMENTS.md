@@ -6,7 +6,7 @@
 | Bicentennial Man | Spend over 200 hours on the realm | Spend over 200 hours (12k minutes) on the realm |  |  |
 | Coffin Dance | Suffer your first death | Die |  |
 | Firin' my lazer | Have all 6 beacon buffs applied at once | Have all 6 beacon buffs applied at once |  |
-| FIRST! | ? | ? | |
+| FIRST! | Be the first one to kill the Ender Dragon | Be the first one to kill the Ender Dragon in Revision 7 | Broken |
 | Get Lucky | Obtain an Elytra from an Ender Dragon | Kill an Ender Dragon and have it drop Elytra (50% chance) | |
 | He's called Pickle Rick | I kid you not Jeff, he turns himself into a pickle | Get a sea pickle | |
 | I am Iron Man | Get killed by an Iron Golem | Get killed by an Iron Golem |  |
