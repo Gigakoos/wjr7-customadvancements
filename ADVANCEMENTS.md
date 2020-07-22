@@ -10,7 +10,7 @@
 | Get Lucky | Obtain an Elytra from an Ender Dragon | Kill an Ender Dragon and have it drop Elytra (50% chance) | |
 | He's called Pickle Rick | I kid you not Jeff, he turns himself into a pickle | Get a sea pickle | |
 | I am Iron Man | Get killed by an Iron Golem | Get killed by an Iron Golem |  |
-| I left the world barren... | ? | ? | |
+| I left the world barren... | ? | ? | Hint from billyK_ (WJR Mod):"blocks != life" |
 | I listened to it, before it was cool | Obtain the pigstep music disc | Get a "Lena Raine - Pigstep" music disc | |
 | I'm more or less Gandalf now | Obtain over 50 experience levels | Get 50 experience levels | |
 | It's good for the Eyes | Consume a pufferfish | Consume a pufferfish | |
