@@ -1,6 +1,6 @@
 |Name|In game description|Requirements| Notes |
 |---|---|---|---|
-| Assertive Dominance | ? | ? | |
+| Assertive Dominance | ? | ? | Hint from billyK_: ["there's an island you'd need to get to in the spawn void that will give it to you, but you can't use an elytra to get the achieve"](https://ptb.discordapp.com/channels/302094807046684672/358003254191456257/739221216589774958) (possibly 1 block island at 0 1 0?)|
 | Aww man... | Get killed by a creeper | Get killed by a Creeper |  |
 | Ballin' Out of Control | ? | ? | Hint from billyK_ (WJR Mod): "I wonder what happens if you make [REDACTED_NUMBER] [REDACTED] blocks in [REDACTED_2]" |
 | Bicentennial Man | Spend over 200 hours on the realm | Spend over 200 hours (12k minutes) on the realm |  |  |
