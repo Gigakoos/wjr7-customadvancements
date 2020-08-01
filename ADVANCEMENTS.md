@@ -17,7 +17,7 @@
 | Lost Civilization | Discover a Ruined Portal | Find a Ruined Portal | |
 | Mod Killer | Kill a player with the mod tag | Kill a moderator | Currently broken |
 | Oh, uh, hey | Find the tnt yeeter under spawn | Get to coordinates -3 110 -2 in the Nether [(video for reference)](https://discordapp.com/channels/302094807046684672/358003254191456257/727467314387222841) | Broken, if fixed, go to the room at -6 114 0 [(pic for reference)](https://i.imgur.com/w4koIe5.png) |
-| One small step | ? | ? | |
+| One small step | Mine your first Ancient Debris | Mine ancient debris | broken |
 | Pop goes the Weasel | Obtain one of the vanilla mob heads | Obtain a mob head | |
 | Power of Thor | Enchant a trident with Channeling  | Obtain a Channeling-enchanted trident  | |
 | Soul in my Step | Get the Soul Speed enchantment on any boots | Get Soul Speed boots | |
